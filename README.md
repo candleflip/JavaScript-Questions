@@ -1,4 +1,5 @@
 # JavaScript-Questions
+***
 
 
 1. Что такое `'use strict'`?
