@@ -139,10 +139,11 @@ let [firstName, secondName] = namesArray;
 
 18. Замыкание в JS?
 
-``
+
 
 ***
 
+19. Методы `setTimeout` и setInterval?
 
 
 ***
